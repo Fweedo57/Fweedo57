@@ -17,3 +17,6 @@ Tenho 18 anos. Apaixonado por tecnologia. Estudo Ciências da Computação, atua
 
 # Currículo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fweedo57&repo=fweedo.github.io)](https://github.com/fweedo57/fweedo.github.io)
+
+# Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fernando-neto-6b1a00166/)
