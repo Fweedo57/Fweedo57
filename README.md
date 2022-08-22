@@ -1,5 +1,5 @@
 ### Olá! Me chamo Fernando Neto
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fweedo57&show_icons=true&theme=tokyonight)
+
 
 # Bio
 Tenho 18 anos. Apaixonado por tecnologia. Estudo Ciências da Computação, atualmente no 2º Período.
@@ -7,6 +7,8 @@ Tenho 18 anos. Apaixonado por tecnologia. Estudo Ciências da Computação, atua
 - 🌱 Estou estudando JavaScript
 - 📫 Me contate pelo email: fweedo57@gmail.com
 - 😄 Pronouns: Ele/Dele
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fweedo57&show_icons=true&theme=tokyonight)
 
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
